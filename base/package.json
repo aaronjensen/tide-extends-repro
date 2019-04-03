@@ -1,0 +1,8 @@
+{
+  "name": "base",
+  "version": "1.0.0",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.4.1"
+  }
+}

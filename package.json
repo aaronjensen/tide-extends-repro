@@ -1,0 +1,13 @@
+{
+  "name": "tide-extends-repro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "sub",
+      "base"
+    ]
+  }
+}
